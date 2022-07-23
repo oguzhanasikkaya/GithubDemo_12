@@ -6,6 +6,7 @@ public class EmptyClass {
         System.out.println("hello world");
         System.out.println("how are you");
         System.out.println("I am fine");
+        System.out.println("Thank you")
     }
 
 }
